@@ -150,11 +150,11 @@ body footer {
   color: white;
   background-color: rgba(0, 0, 0, 0.3);
 }
+body footer section.logo h3 {
+  font-size: 2.5rem;
+}
 body footer section.logo img {
   width: 20vw;
-}
-body footer section.logo img h3 {
-  font-size: 2.5rem;
 }
 body footer section.links {
   margin-top: 2rem;
